@@ -1,6 +1,6 @@
 # Natural language processing (NLP)
 
-*As a Data Project Manager, I've leveraged natural language processing (NLP) techniques to extract valuable insights from customer conversations obtained through the [Intercom](https://www.intercom.com/) API. By applying pre-trained models and customizing them for our use case, I've been able to analyze thousands of customer conversations at scale, identify trends, and gain a deeper understanding of customer needs and pain points. This has enabled me to drive data-informed decision making and improve our product and customer experience.*
+*As a Data Project Manager, I've leveraged natural language processing (NLP) techniques to extract valuable insights from customer conversations obtained through the [Intercom](https://www.intercom.com/) API. By applying pre-trained models and customizing them for our use case, I've been able to analyze customer conversations, identify trends, and gain a deeper understanding of customer needs and pain points. This has enabled me to drive data-informed decision making and improve our product and customer experience.*
 
 ## Exploring Transformers and NLP Tasks
 
@@ -48,8 +48,6 @@ Real-world application: Writing assistance, story generation, chatbots, and othe
 🤖 GPT-2 is a large-scale language model developed by OpenAI for generating human-like text.
 Real-world application: Text generation, creative writing, and more.
 
-###### If you're interested in other NLP projects and pre-trained models, check this out:  [Fake News Detection & Exploring Pre-trained Models](https://github.com/CatelloTheDataProjectManager/Fake_news_detection/blob/main/README.md)
-
 ### 9. Fill-Mask: Understanding Context
 
 🔍 The fill-mask task involves predicting the most likely word(s) to fill in a masked token in a sentence.
@@ -84,5 +82,7 @@ Real-world application: Developing custom NLP models, fine-tuning pre-trained mo
 
 🔄 Tokenizers convert text into a sequence of tokens (or words) for language processing models, making text processing more efficient.
 Real-world application: Enabling efficient text processing and input preparation for NLP models.
+
+###### If you're interested in other NLP projects and pre-trained models, check this out:  [Fake News Detection & Exploring Pre-trained Models](https://github.com/CatelloTheDataProjectManager/Fake_news_detection/blob/main/README.md)
 
 *Throughout this notebook, we'll explore these topics interactively, providing code snippets, examples, and real-world applications. By the end, you'll have a solid understanding of transformers and their role in natural language processing. Happy learning!* 🚀📚🤖

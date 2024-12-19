@@ -2,7 +2,9 @@
 
 *As a Data Project Manager, I've leveraged natural language processing (NLP) techniques to extract valuable insights from customer conversations obtained through the [Intercom](https://www.intercom.com/) API. By applying pre-trained models and customizing them for our use case, I've been able to analyze customer conversations, identify trends, and gain a deeper understanding of customer needs and pain points. This has enabled me to drive data-informed decision making and improve our product and customer experience.*
 
-## Exploring Transformers and NLP Tasks
+## Exploring  Hugging Face Transformers and NLP Tasks
+
+![Hugging Face](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/huggingface.png)
 
 This interactive notebook delves into the fascinating world of natural language processing (NLP) using the Hugging Face Transformers library. We'll explore various NLP tasks, pre-trained models, and real-world applications. Let's dive in and make language understanding more accessible and powerful!
 

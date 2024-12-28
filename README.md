@@ -8,7 +8,7 @@
 
 This interactive notebook delves into the fascinating world of natural language processing (NLP) using the Hugging Face Transformers library. We'll explore various NLP tasks, pre-trained models, and real-world applications. Let's dive in and make language understanding more accessible and powerful!
 
-[Notebook Hugging Face](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Transformers_huggingface.ipynb)
+[Jupyter Notebook Exploring Hugging Face Transformers and NLP Tasks](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Transformers_huggingface.ipynb)
 
 ### 1. Meet the Transformers
 

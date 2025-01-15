@@ -1,4 +1,6 @@
-# Natural language processing (NLP)
+# Transformers 
+
+## Natural language processing (NLP)
 
 *As a Data Project Manager, I've leveraged natural language processing (NLP) techniques to extract valuable insights from customer conversations obtained through the [Intercom](https://www.intercom.com/) API. By applying pre-trained models and customizing them for our use case, I've been able to analyze customer conversations, identify trends, and gain a deeper understanding of customer needs and pain points. This has enabled me to drive data-informed decision making and improve our product and customer experience.*
 
@@ -88,3 +90,26 @@ Real-world application: Enabling efficient text processing and input preparation
 ###### If you're interested in other NLP projects and pre-trained models, check this out:  [Fake News Detection & Exploring Pre-trained Models](https://github.com/CatelloTheDataProjectManager/Fake_news_detection/blob/main/README.md)
 
 *Throughout this notebook, we'll explore these topics interactively, providing code snippets, examples, and real-world applications. By the end, you'll have a solid understanding of transformers and their role in natural language processing. Happy learning!* 🚀📚🤖
+
+------------------------------------------------------------------------------------------
+
+# Autoencoders
+
+## Text Recommendation System using Autoencoders
+
+This project builds and evaluates an autoencoder for recommending similar text articles. The autoencoder generates compact representations of text data, which are used to suggest similar articles based on content.
+
+## Key Features
+
+- **Data Preparation**: Encodes categories and transforms text into TF-IDF vectors.
+- **Autoencoder Architecture**: Encoding layers (512, 256, 128) and decoding layers (128, 256, 512).
+- **Model Training**: Uses Adam optimizer with a learning rate of 0.001 and MSE loss.
+- **Evaluation**: Measures performance using RMSE on training and test datasets.
+- **Recommendation System**: Implements a function to suggest similar articles based on encoded representations.
+
+## Results
+
+The autoencoder effectively reconstructs input data, as shown by RMSE values. The recommendation function successfully suggests relevant articles based on user input, demonstrating the system's ability to understand and recommend content.
+
+For more information on natural language processing and neural networks, you can refer to the following notebook:
+[Filtrage de continu avec des réseaux de neurones](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Filtrage%20de%20continu%20avec%20des%20r%C3%A9seaux%20de%20neurones.ipynb)

@@ -28,7 +28,7 @@ This notebook covers NLP tasks using the Hugging Face Transformers library.
 
 [Jupyter Notebook: Transformers_huggingface](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Transformers_huggingface.ipynb)
 
-[Jupyter Notebook: Fake_news_detection](https://github.com/CatelloTheDataProjectManager/Fake_news_detection/blob/main/README.md)
+[Jupyter Notebook: Fake News Detection & Pre-trained Models](https://github.com/CatelloTheDataProjectManager/Fake_news_detection/blob/main/README.md)
 
 ## Text Recommendation System using Autoencoders
 

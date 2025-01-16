@@ -48,21 +48,20 @@ The autoencoder effectively reconstructs input data and suggests relevant articl
 
 [Jupyter Notebook: Autoencoder for Text Recommendation](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Filtrage%20de%20continu%20avec%20des%20r%C3%A9seaux%20de%20neurones.ipynb)
 
-## Product Recommendation System using GRU
+## Product Recommendation System using LSTM
 
-This project implements a product recommendation system using a GRU model, providing relevant recommendations based on purchase history.
+This project implements a product recommendation system using an LSTM model, providing relevant recommendations based on purchase history.
 
 ### Key Features
 
 - **Data Preparation:** Encodes categories and transforms text into TF-IDF vectors.
-- **GRU Architecture:** Encoding layers and decoding layers.
+- **LSTM Architecture:** Encoding layers and decoding layers.
 - **Model Training:** Uses Adam optimizer with a learning rate of 0.001 and MSE loss.
 - **Evaluation:** Measures performance using RMSE.
 - **Recommendation System:** Suggests similar articles based on encoded representations.
 
 ### Results
 
-The GRU model effectively reconstructs input data and suggests relevant articles based on user input.
+The LSTM model effectively reconstructs input data and suggests relevant articles based on user input.
 
-[Jupyter Notebook: E-Commerce Recommendation System with LSTM
-](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Syst%C3%A8me%20de%20Recommandation%20avec%20un%20LSTM.ipynb)
+[Jupyter Notebook: E-Commerce Recommendation System with LSTM](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Syst%C3%A8me%20de%20Recommandation%20avec%20un%20LSTM.ipynb)

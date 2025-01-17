@@ -64,4 +64,4 @@ This project implements a product recommendation system using an LSTM model, pro
 
 The LSTM model effectively reconstructs input data and suggests relevant articles based on user input.
 
-[Jupyter Notebook: E-Commerce Recommendation System with LSTM](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/Syst%C3%A8me%20de%20Recommandation%20avec%20un%20LSTM.ipynb)
+[Jupyter Notebook: E-Commerce Recommendation System with LSTM](https://github.com/CatelloTheDataProjectManager/Natural-language-processing/blob/main/E-Commerce%20Recommendation%20System%20with%20LSTM%20vX.ipynb)
